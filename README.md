@@ -8,7 +8,7 @@ for instll this library please read the install.txt file
 
 # Demo
 
-you can run Test Files
+run Test Files
 
 # Version
 
@@ -21,7 +21,7 @@ you can run Test Files
 
 # Future
 
-- Supporting Turkey
+- Supporting England
 - IntelliHelper v1.1
 
 # Contact
