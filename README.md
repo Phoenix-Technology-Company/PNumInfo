@@ -22,7 +22,7 @@ you can run Test Files
 # Future
 
 - Supporting Turkey
-- IntelliHelper v1.0
+- IntelliHelper v1.1
 
 # Contact
 
