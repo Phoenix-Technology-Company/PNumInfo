@@ -1,0 +1,12 @@
+step-1 :open tur.py and set the database address in line 2
+step-2 :open usa.py and set the database address in line 2
+step-3 :open a cmd
+step-4 :run this code [ cd {project folder address}/PNumInfo  ] then run [ pip install . ]
+
+@@you can use up steps or use down steps
+
+step-1 : open cmd in PNumInfo (setup.py in this folder) then run [ pip install . ]
+step-2 : copy databases file (tur.db and usa.db) in {python install folder}/Lib/site-packages/PNumInfo/PNumInfo
+
+
+Phoenix Corporation
